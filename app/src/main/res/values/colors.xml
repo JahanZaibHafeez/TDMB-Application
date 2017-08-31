@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2196F3</color>
+    <color name="primaryDark">#BBDEFB</color>
+    <color name="darkPrimary">#1976D2</color>#1976D2
+    <color name="accent">#BBDEFB</color>
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#4c4c4c</color>
+    <color name="textIcons">#FFFFFF</color>
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#727272</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="white">#FFFFFF</color>
+</resources>
